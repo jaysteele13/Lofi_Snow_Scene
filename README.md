@@ -9,4 +9,14 @@ https://github.com/user-attachments/assets/22e1d517-eba2-46b2-a5b3-0349c2731035
 ## How to get executable
 
 
+```
+mkdir snowfall.app
+```
+
+Download `contents.zip`
+
+Extract in folder `snowfall.app`
+
+If on MacOs, this should run my application.
+
 
